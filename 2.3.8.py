@@ -1,0 +1,42 @@
+import turtle
+
+def square():
+    turtle.left(45)
+    turtle.forward(100)
+    turtle.right(90)
+    turtle.forward(100)
+    turtle.right(90)
+    turtle.forward(100)
+    turtle.right(90)
+    turtle.forward(100)
+    turtle.right(90)
+    turtle.forward(75)
+    turtle.right(90)
+    turtle.forward(75)
+    turtle.right(90)
+    turtle.forward(75)
+    turtle.right(90)
+    turtle.forward(75)
+    turtle.right(90)
+    turtle.forward(50)
+    turtle.right(90)
+    turtle.forward(50)
+    turtle.right(90)
+    turtle.forward(50)
+    turtle.right(90)
+    turtle.forward(50)
+    turtle.right(90)
+    turtle.forward(25)
+    turtle.right(90)
+    turtle.forward(25)
+    turtle.right(90)
+    turtle.forward(25)
+    turtle.right(90)
+    turtle.forward(25)
+    turtle.done()
+
+
+def main():
+    square()
+    
+main()
